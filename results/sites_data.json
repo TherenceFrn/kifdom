@@ -1,0 +1,104 @@
+{
+    "sites": [
+        {
+            "domain": "jeudutao.fr",
+            "kifrank": 59,
+            "price": "110 €"
+        },
+        {
+            "domain": "wismer.fr",
+            "kifrank": 86,
+            "price": "50 €"
+        },
+        {
+            "domain": "esperado.fr",
+            "kifrank": 75,
+            "price": "40 €"
+        },
+        {
+            "domain": "annuaire-banque.fr",
+            "kifrank": 63,
+            "price": "40 €"
+        },
+        {
+            "domain": "lespritranquille.fr",
+            "kifrank": 57,
+            "price": "40 €"
+        },
+        {
+            "domain": "running4all.fr",
+            "kifrank": 35,
+            "price": "40 €"
+        },
+        {
+            "domain": "16drive.fr",
+            "kifrank": 32,
+            "price": "40 €"
+        },
+        {
+            "domain": "mediatheque-suresnes.fr",
+            "kifrank": 93,
+            "price": "30 €"
+        },
+        {
+            "domain": "solidarite-internationale-pcf.fr",
+            "kifrank": 85,
+            "price": "30 €"
+        },
+        {
+            "domain": "madewithlove.fr",
+            "kifrank": 75,
+            "price": "30 €"
+        },
+        {
+            "domain": "ladepanne.fr",
+            "kifrank": 89,
+            "price": "30 €"
+        },
+        {
+            "domain": "linactuelle.fr",
+            "kifrank": 87,
+            "price": "30 €"
+        },
+        {
+            "domain": "azameo.fr",
+            "kifrank": 86,
+            "price": "30 €"
+        },
+        {
+            "domain": "fleurscaussescevennes.fr",
+            "kifrank": 86,
+            "price": "30 €"
+        },
+        {
+            "domain": "saclongchamp-solde.fr",
+            "kifrank": 83,
+            "price": "30 €"
+        },
+        {
+            "domain": "depannageplombiers.fr",
+            "kifrank": 81,
+            "price": "30 €"
+        },
+        {
+            "domain": "obesite-solution-chirurgie.fr",
+            "kifrank": 81,
+            "price": "30 €"
+        },
+        {
+            "domain": "lekiosquenantais.fr",
+            "kifrank": 80,
+            "price": "30 €"
+        },
+        {
+            "domain": "coque4iphone.fr",
+            "kifrank": 79,
+            "price": "30 €"
+        },
+        {
+            "domain": "pluris.fr",
+            "kifrank": 78,
+            "price": "30 €"
+        }
+    ]
+}
